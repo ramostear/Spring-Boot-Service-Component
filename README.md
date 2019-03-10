@@ -34,4 +34,4 @@ public class DemoController{
 
 -----
 如需查看本教程完整的内容，请访问[RT社圈](https://www.ramostear.com)或者点击下面的链接进行查看：
-[Spring Boot（十二）— 服务组件 | ramostear · 罗摩尔]()
+[Spring Boot（十二）— 服务组件 | ramostear · 罗摩尔](https://www.ramostear.com/archive/spring-boot/post/service-component.html)
